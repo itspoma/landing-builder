@@ -1,0 +1,5 @@
+!.keep
+
+environment/*/log/
+
+npm-debug.log
